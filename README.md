@@ -31,8 +31,8 @@ MMVRAC
 │      │  get_raw_denoised_data.py
 │      │  get_raw_skes_data.py
 │      │  seq_transformation.py
-│      │  **UAV_XSub_V1.npz** # Generated data
-│      │  **UAV_XSub_V2.npz** # Generated data
+│      │  [**UAV_XSub_V1.npz**](https://drive.google.com/file/d/1iik6pBTtyCEuBfj6_bU-xa5CE2G3urDB/view?usp=drive_link)
+│      │  [**UAV_XSub_V2.npz](https://drive.google.com/file/d/151I1a1CQ7nRQGqJsBhDOx5T_xQ1RY2hm/view?usp=drive_link)
 │      │  
 │      └─statistics  # preprocess files
 ├─feeders
@@ -57,7 +57,8 @@ MMVRAC
 
 
 pretrained models can be find at work_dir such as:
- **'work_dir/uav/my/lst_joint/xsub_v1/runs-92-15364.pt'**
+ **'[work_dir/uav](https://drive.google.com/drive/folders/1jO65IXbDQuC_1aFIYoEJZGdanS2alB4b?usp=drive_link)/my/lst_joint/xsub_v1/runs-92-15364.pt'**
+ 
 
 
 
