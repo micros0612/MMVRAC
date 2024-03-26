@@ -7,7 +7,8 @@ We are honored to participate in the 2024 MMVRAC. This documentation summarizes 
 
 
 ## Directory Structure
-'''
+```
+
 MMVRAC
 │  ensemble.py # ensemble different mod
 │  **environment.yml** # dependencies for the codes
@@ -53,7 +54,7 @@ MMVRAC
 │      
 ├─torchlight
 └─**work_dir**
-'''
+```
 
 
 pretrained models can be find at work_dir such as:
