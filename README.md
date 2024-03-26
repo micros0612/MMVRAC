@@ -7,8 +7,8 @@ We are honored to participate in the 2024 MMVRAC. This documentation summarizes 
 
 
 ## Directory Structure
-```
 
+```
 MMVRAC
 │  ensemble.py # ensemble different mod
 │  **environment.yml** # dependencies for the codes
@@ -33,7 +33,7 @@ MMVRAC
 │      │  get_raw_skes_data.py
 │      │  seq_transformation.py
 │      │  [**UAV_XSub_V1.npz**](https://drive.google.com/file/d/1iik6pBTtyCEuBfj6_bU-xa5CE2G3urDB/view?usp=drive_link)
-│      │  [**UAV_XSub_V2.npz](https://drive.google.com/file/d/151I1a1CQ7nRQGqJsBhDOx5T_xQ1RY2hm/view?usp=drive_link)
+│      │  [**UAV_XSub_V2.npz**](https://drive.google.com/file/d/151I1a1CQ7nRQGqJsBhDOx5T_xQ1RY2hm/view?usp=drive_link)
 │      │  
 │      └─statistics  # preprocess files
 ├─feeders
