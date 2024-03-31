@@ -146,13 +146,14 @@ python main_multipart_uav.py --config <work_dir>/config.yaml --work-dir <work_di
 #### Evaluation on UAVHuman-Skeleton 
 
 
-| Methods   | CSv1 - Acc (%) | CSv2 - Acc (%) |
-| --------- | -------------- | -------------- |
-| DGNN      | 29.90          | -              |
-| ST-GCN    | 30.25          | 56.14          |
-| 2s-AGCN   | 34.84          | 66.68          |
-| HARD-Net  | 36.97          | -              |
-| **Our Experiments** | **45.68**       | **74.34**       |
+| Methods   | CSv1 - Top1 (%) | CSv1 - Top5 (%) | CSv2 - Top1 (%) | CSv2 - Top5 (%) |
+| --------- | --------------- | --------------- | --------------- | --------------- |
+| DGNN      |  29.90          |  -              |  -              |  -              |
+| ST-GCN    |  30.25          |  -              |  56.14          |  -              |
+| 2s-AGCN   |  34.84          |  -              |  66.68          |  -              |
+| HARD-Net  |  36.97          |  -              |  36.97          |  -              |
+| Shift-GCN |  37.98          |  -              |  67.04          |  -              |
+| **Our Experiments** | **45.68**  | **65.28**  |   **74.34**     |   **93.51**     |
 
 
 
